@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "556158262039",
+    "project_id": "otp-v-328f3",
+    "storage_bucket": "otp-v-328f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556158262039:android:fb2ab24469275f8832b552",
+        "android_client_info": {
+          "package_name": "com.example.blackcoffer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556158262039-5miej84ejlblr0uhogaqtjldjg3e4ab1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGvZYc6fLLGCEX63iDeUmSbaOc50PRgxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556158262039-5miej84ejlblr0uhogaqtjldjg3e4ab1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
